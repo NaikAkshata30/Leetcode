@@ -17,17 +17,24 @@ This repository contains my solutions to LeetCode problems organized topic-wise 
 
 # 📚 Topics Covered
 
-| Topic                     | Problems |
-| ------------------------- | -------- |
-| [Hashing](Hashing/)       | 3        |
-| [Heap](Heap/)             | 1        |
-| [Prefix_Sum](Prefix_Sum/) | 1        |
+| Topic                         | Problems |
+| ----------------------------- | -------- |
+| [Hashing](Hashing/)           | 3        |
+| [Heap](Heap/)                 | 1        |
+| [Prefix_Sum](Prefix_Sum/)     | 2        |
+| [Trees](Trees/)               | 1        |
+| [Two_Pointers](Two_Pointers/) | 1        |
+| [Matrix](Matrix/)             | 1        |
+| [Greedy](Greedy/)             | 1        |
 
 ---
 
 # 📈 Progress
 
-* Total Problems Solved: 5
+* Total Problems Solved: 10
+* Easy: 5
+* Medium: 5
+* Hard: 0
 * Daily LeetCode Practice ✅
 
 ---
@@ -37,9 +44,13 @@ This repository contains my solutions to LeetCode problems organized topic-wise 
 ```text
 LeetCode/
 │
+├── Greedy/
 ├── Hashing/
 ├── Heap/
+├── Matrix/
 ├── Prefix_Sum/
+├── Trees/
+├── Two_Pointers/
 │
 └── README.md
 ```
