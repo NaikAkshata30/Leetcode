@@ -19,21 +19,24 @@ This repository contains my solutions to LeetCode problems organized topic-wise 
 
 | Topic                         | Problems |
 | ----------------------------- | -------- |
+| [Arrays](Arrays/)             | 1        |
+| [Greedy](Greedy/)             | 1        |
 | [Hashing](Hashing/)           | 3        |
 | [Heap](Heap/)                 | 1        |
+| [Linked_List](Linked_List/)   | 1        |
+| [Matrix](Matrix/)             | 1        |
 | [Prefix_Sum](Prefix_Sum/)     | 2        |
+| [Stack](Stack/)               | 3        |
 | [Trees](Trees/)               | 1        |
 | [Two_Pointers](Two_Pointers/) | 1        |
-| [Matrix](Matrix/)             | 1        |
-| [Greedy](Greedy/)             | 1        |
 
 ---
 
 # 📈 Progress
 
-* Total Problems Solved: 10
-* Easy: 5
-* Medium: 5
+* Total Problems Solved: 15
+* Easy: 7
+* Medium: 8
 * Hard: 0
 * Daily LeetCode Practice ✅
 
@@ -41,14 +44,17 @@ This repository contains my solutions to LeetCode problems organized topic-wise 
 
 # 🗂️ Repository Structure
 
-```text
+```text id="g8m2vq"
 LeetCode/
 │
+├── Arrays/
 ├── Greedy/
 ├── Hashing/
 ├── Heap/
+├── Linked_List/
 ├── Matrix/
 ├── Prefix_Sum/
+├── Stack/
 ├── Trees/
 ├── Two_Pointers/
 │
@@ -61,7 +67,7 @@ LeetCode/
 
 Each solution file follows this format:
 
-```text
+```text id="r4v9xz"
 0001_two_sum.py
 ```
 
@@ -93,7 +99,14 @@ Where:
 
 # 🔥 Daily Practice
 
-I regularly solve and upload LeetCode problems to maintain consistency and improve algorithmic thinking.
+I consistently solve and upload around **5 LeetCode problems daily**, including the official **LeetCode Daily Question**.
+
+My focus is on:
+
+* strengthening DSA fundamentals
+* improving problem-solving speed
+* mastering interview patterns
+* building long-term consistency
 
 ---
 
